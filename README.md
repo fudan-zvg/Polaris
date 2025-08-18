@@ -1,7 +1,7 @@
 # Relative Position Matters: Trajectory Prediction and Planning with Polar Representation
-### [[Paper]](https://arxiv.org/abs/XXXX)
+### [[Paper]](https://arxiv.org/abs/2508.11492)
 
-> [**Relative Position Matters: Trajectory Prediction and Planning with Polar Representation**](https://arxiv.org/abs/XXXX)            
+> [**Relative Position Matters: Trajectory Prediction and Planning with Polar Representation**](https://arxiv.org/abs/2508.11492)            
 > [Bozhou Zhang](https://zbozhou.github.io/), [Nan Song](https://scholar.google.com/citations?hl=zh-CN&user=wLZVtjEAAAAJ), [Bingzhao Gao](https://scholar.google.com/citations?user=GvK2l7sAAAAJ&hl=zh-TW&oi=ao), [Li Zhang](https://lzrobots.github.io)  
 > **arXiv 2025**
 
